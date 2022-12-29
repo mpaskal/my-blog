@@ -5,6 +5,10 @@
 /.pnp
 .pnp.js
 
+# SQL Server files
+*.mdf
+*.ldf
+
 # testing
 /coverage
 
